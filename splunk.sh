@@ -1,0 +1,2 @@
+wget -O splunkforwarder-6.0.2-196940-linux-2.6-x86_64.rpm 'http://www.splunk.com/page/download_track?file=6.0.2/universalforwarder/linux/splunkforwarder-6.0.2-196940-linux-2.6-x86_64.rpm&ac=adwords-syslog&wget=true&name=wget&platform=Linux&architecture=x86_64&version=6.0.2&product=splunk&typed=release'
+rpm –ihv splunkforwarder-6.0.2-196940-linux-2.6-x86_64.rpm 
